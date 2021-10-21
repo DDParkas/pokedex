@@ -25,7 +25,7 @@ Este repositório contém um teste simples de api criado com base na incrível v
 
 ## Projeto in live
 
-É possivel vizualizar o projeto in live por [Projeto]()
+É possivel vizualizar o projeto in live por [Projeto](https://ddparkas.github.io/pokedex/)
 
 ## Licença
 
